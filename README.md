@@ -1,2 +1,2 @@
-# fake-news-classifier-new
-End to end code for the fake news classifier project
+# fake-news-classifier
+End to end project for the fake news classifier project
